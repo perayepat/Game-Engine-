@@ -1,0 +1,9 @@
+C:\Users\perri\Documents\School Related\GADE 3B\YoutubeOpenGL 2 - Triangle\x64\Debug\BreatherOpenGL.exe
+C:\Users\perri\Documents\School Related\GADE 3B\GADE_TASK_!\x64\Debug\BreatherOpenGL.exe
+C:\Users\perri\Documents\School Related\GADE 3B\GADE_TASK_1 - V2\x64\Debug\BreatherOpenGL.exe
+C:\Users\perri\Documents\School Related\GADE 3B\GADE_TASK_1_V3_Lighting\x64\Debug\BreatherOpenGL.exe
+C:\Users\jaden\Downloads\GADE_TASK_1_V4_Textures\GADE_TASK_1_V4_Textures\x64\Debug\BreatherOpenGL.exe
+C:\Users\jaden\Downloads\GADE_TASK_1_V4_Textures\GADE_TASK_1_V4_Textures\x64\Debug\BreatherOpenGL.pdb
+C:\Users\perri\Downloads\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\x64\Debug\BreatherOpenGL.exe
+C:\Users\Peraye\Downloads\GADE_TASK_2\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\x64\Debug\BreatherOpenGL.exe
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\x64\Debug\BreatherOpenGL.exe

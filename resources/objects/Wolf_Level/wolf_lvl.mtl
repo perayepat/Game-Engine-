@@ -1,0 +1,51 @@
+# Blender MTL File: 'wolf_lvl.blend'
+# Material Count: 4
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.900000 TexturesCom_Concrete_Rough_512_normal.jpg
+map_Kd TexturesCom_Concrete_Rough_512_roughness.jpg
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.463636 0.463636 0.463636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 5.200000 TexturesCom_Wall_BrickRed1_2.5x2.5_1K_normal.jpg
+map_Kd TexturesCom_Wall_BrickRed1_2.5x2.5_1K_albedo.jpg
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.500000 TexturesCom_Metal_Medieval1_1.1x1.1_512_normal.jpg
+map_Kd TexturesCom_Metal_Medieval1_1.1x1.1_512_albedo.jpg
+refl TexturesCom_Metal_Medieval1_1.1x1.1_512_roughness.jpg
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.700000 TexturesCom_Wood_TavernDoor_512_normal.jpg
+map_Kd TexturesCom_Wood_TavernDoor_512_albedo.jpg

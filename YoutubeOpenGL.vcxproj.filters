@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\shaders">
+      <UniqueIdentifier>{e580662e-469c-41c5-9e5e-4c501afe77ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\textures">
+      <UniqueIdentifier>{52bb9bd1-94df-4731-a71d-cfd2604c3941}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader_s.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3.3.shader.vs">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="3.3.shader.fs">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="4.1.texture.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="4.1.texture.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="coordinate_systems.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="coordinate_systems.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="colors.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="colors.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="light_cube.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="light_cube.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="model_loading.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="model_loading.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="cubemaps.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="cubemaps.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="skybox.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="skybox.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Libraries\include\stb_image.h">
+      <Filter>Header Files</Filter>
+    </Text>
+    <Text Include="Wall_List.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="New_Map.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\container.jpg">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

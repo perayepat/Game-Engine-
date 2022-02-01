@@ -1,0 +1,40 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (YoutubeOpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\mesh.h(90,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(454,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(465,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(476,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(525,133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(525,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(525,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(529,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(530,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(533,133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(533,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(533,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(537,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(538,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(541,133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(541,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(541,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(545,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(546,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(549,133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(549,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(549,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(553,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(554,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(562,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(563,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(622,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(624,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(644,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(876,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(877,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(881,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(882,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(884,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(885,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\Main.cpp(894,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  YoutubeOpenGL.vcxproj -> C:\Users\Peraye\Downloads\GADE_POE_VER\GADE_TASK_1_V4_Textures_(Has_Task_2_Features)\GADE_TASK_1_V4_Textures\x64\Debug\BreatherOpenGL.exe

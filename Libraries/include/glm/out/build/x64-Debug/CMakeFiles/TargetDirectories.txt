@@ -1,0 +1,3 @@
+C:/Users/perri/Documents/School Related/GADE 3B/YoutubeOpenGL 2 - Triangle/Libraries/include/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
+C:/Users/perri/Documents/School Related/GADE 3B/YoutubeOpenGL 2 - Triangle/Libraries/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/perri/Documents/School Related/GADE 3B/YoutubeOpenGL 2 - Triangle/Libraries/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
